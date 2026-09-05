@@ -185,17 +185,6 @@ Issued: **April 2025**
 
 ---
 
-## Coding Profiles
-
-No coding-profile URLs have been provided yet.
-
-- LeetCode — Not provided
-- GeeksforGeeks — Not provided
-- HackerRank — Not provided
-- CodeChef — Not provided
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -207,10 +196,6 @@ No coding-profile URLs have been provided yet.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=the-mujeeb07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-
----
-
-## Contribution Activity
 
 ---
 
