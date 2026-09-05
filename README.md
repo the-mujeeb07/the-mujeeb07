@@ -162,18 +162,18 @@ Completed schooling with participation in academic, extracurricular and sports a
 
 ---
 
-## Certifications
+## 📜 Certification
 
-### University of Helsinki
+### University of Helsinki — Elements of AI
+
+**Issued:** April 2025
 
 <p align="center">
-  <img src="https://img.shields.io/badge/University%20of%20Helsinki-Elements%20of%20AI-7C3AED?style=for-the-badge"/>
+  <img src="certificate-elements-of-ai.jpg" alt="University of Helsinki - Elements of AI Certificate" width="700"/>
 </p>
 
-**Elements of AI**  
-Issued: **April 2025**
-
 ---
+
 
 ## Coding Profiles
 
