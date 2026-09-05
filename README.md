@@ -63,32 +63,16 @@ I'm also interested in web development and technology-driven solutions, while de
 
 ---
 
-## Tech Stack
-
-### Languages
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Programming-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-Programming-6366F1?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-### AI / ML & Data
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-4F46E5?style=for-the-badge"/>
-</p>
-
-### Web Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Development-Aspiring-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7B2FF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-4338CA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Development-374151?style=for-the-badge" />
 </p>
 
 ---
