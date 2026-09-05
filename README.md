@@ -63,16 +63,30 @@ I'm also interested in web development and technology-driven solutions, while de
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
+
+### Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7B2FF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Science-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-4338CA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Development-374151?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,sql,bash&theme=dark" />
+</p>
+
+### Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&theme=dark" />
+</p>
+
+### Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,postgres,mysql,redis&theme=dark" />
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,nginx,postman,vscode&theme=dark" />
 </p>
 
 ---
@@ -97,10 +111,6 @@ I'm also interested in web development and technology-driven solutions, while de
 
 <details>
 <summary><strong>Projects</strong></summary>
-
-No specific GitHub projects have been provided yet.
-
-Project names, descriptions, technology stacks, performance metrics, security details, impact statements, and repository links will only be added after the actual projects are provided.
 
 </details>
 
@@ -162,18 +172,18 @@ Completed schooling with participation in academic, extracurricular and sports a
 
 ---
 
-## 📜 Certification
+## Certifications
 
-### University of Helsinki — Elements of AI
-
-**Issued:** April 2025
+### University of Helsinki
 
 <p align="center">
-  <img src="certificate-elements-of-ai.jpg" alt="University of Helsinki - Elements of AI Certificate" width="700"/>
+  <img src="https://img.shields.io/badge/University%20of%20Helsinki-Elements%20of%20AI-7C3AED?style=for-the-badge"/>
 </p>
 
----
+**Elements of AI**  
+Issued: **April 2025**
 
+---
 
 ## Coding Profiles
 
@@ -188,25 +198,17 @@ No coding-profile URLs have been provided yet.
 
 ## GitHub Analytics
 
-GitHub analytics are not connected yet because the actual GitHub username/profile URL has not been provided.
-
 ---
 
 ## GitHub Trophies
-
-GitHub trophies are not connected yet because the actual GitHub username has not been provided.
 
 ---
 
 ## Contribution Activity
 
-GitHub contribution activity is not connected yet because the actual GitHub username has not been provided.
-
 ---
 
 ## Contribution Snake
-
-The contribution snake is not connected yet because the actual GitHub username has not been provided.
 
 ---
 
