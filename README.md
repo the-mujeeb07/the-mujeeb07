@@ -199,10 +199,8 @@ No coding-profile URLs have been provided yet.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-mujeeb07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="./profile/stats.svg" alt="GitHub Analytics">
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 
