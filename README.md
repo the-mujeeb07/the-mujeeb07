@@ -1,74 +1,65 @@
-# Hi, I'm Mujeeb Ahmad
+# Hello ! I Am Mujeeb Ahmad
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=200&section=header&text=Mujeeb%20Ahmad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=9F7AEA&center=true&vCenter=true&width=850&lines=Software+Engineering+%7C+AI%2FML+%7C+Full+Stack;Building+Reliable%2C+Scalable+Digital+Products;Learning+%7C+Building+%7C+Shipping;Focused+on+Clean+Architecture+and+Product+Engineering" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=9F7AEA&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;Aspiring+Web+Developer;Learning+%7C+Building+%7C+Exploring;Interested+in+AI%2C+ML+%26+Data+Science" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science-Engineering-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Software-Engineering-6366F1?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Engineering-8B5CF6?style=for-the-badge&logo=googlebard&logoColor=white"/>
-  <img src="https://img.shields.io/badge/India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.Tech-Artificial%20Intelligence%20%26%20Machine%20Learning-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Student-6366F1?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prayagraj%2C%20Uttar%20Pradesh%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mujeeb44ah@gmail.com">
     <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/mujeeb-ahmad-982571417/">
+    <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=8B5CF6&label=STARS"/>
 </p>
 
 ---
 
 ## About
 
-I'm a software engineering-focused developer interested in building **reliable, scalable, and user-centric digital products**.
+I'm an **AI & Machine Learning enthusiast and aspiring web developer** currently pursuing a **B.Tech in Artificial Intelligence & Machine Learning** at **Shambhunath Institute of Engineering and Technology**.
 
-My interests span **software engineering, artificial intelligence, machine learning, full-stack development, backend systems, databases, cloud technologies, and developer tooling**.
+I'm passionate about **Artificial Intelligence and Machine Learning**, with a strong interest in building intelligent solutions that solve real-world problems. I continuously learn and expand my knowledge in AI, Data Science, and emerging technologies through hands-on projects and self-learning.
 
-I approach development with a product-engineering mindset: understand the problem first, design the system carefully, write maintainable code, measure what matters, and continuously improve the product.
+I enjoy exploring **machine learning algorithms, data analysis, deep learning concepts, data processing, model training and evaluation, Generative AI, and AI-powered applications**.
 
-### Engineering Interests
+I'm also interested in web development and technology-driven solutions, while developing my skills in problem solving, analytical thinking, teamwork, communication, and collaboration.
 
-- Software engineering and clean architecture
-- Full-stack web application development
-- Backend systems and REST APIs
-- Artificial Intelligence and Machine Learning
-- Data-driven applications
-- Database design and optimization
-- Cloud and DevOps fundamentals
-- Automation and developer tooling
-- Open-source development
+### Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Python Programming
+- Data Analysis & Visualization
+- Data Science
+- Deep Learning Fundamentals
+- Data Processing
+- Model Training & Evaluation
+- Generative AI
+- Problem Solving & Analytical Thinking
+- Continuous Learning & Research
+- Web Development
 
 ### Open To
 
-- Software engineering opportunities
-- AI/ML engineering opportunities
-- Full-stack development
-- Backend engineering
+- AI & Machine Learning opportunities
+- Data Science opportunities
+- Web development opportunities
+- Technical projects
+- Technology competitions
+- Innovation challenges
 - Open-source collaboration
-- Interesting technical projects
-- Building products with strong engineering foundations
+- Connecting with professionals in AI, ML and Data Science
 
 ---
 
@@ -77,25 +68,27 @@ I approach development with a product-engineering mindset: understand the proble
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,sql,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java&theme=dark"/>
 </p>
 
-### Frontend
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-Programming-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-Programming-6366F1?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### Backend & Databases
+### AI / ML & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,postgres,mysql,redis&theme=dark" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-4F46E5?style=for-the-badge"/>
 </p>
 
-### Cloud, DevOps & Tooling
+### Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,nginx,postman,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/Web%20Development-Aspiring-6366F1?style=for-the-badge"/>
 </p>
 
 ---
@@ -104,100 +97,26 @@ I approach development with a product-engineering mindset: understand the proble
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Machine Learning | Developing | Model development, evaluation, preprocessing and experimentation |
-| Deep Learning | Developing | Neural-network fundamentals and practical experimentation |
-| Natural Language Processing | Developing | Text processing, embeddings and NLP workflows |
-| Computer Vision | Developing | Image-processing and vision-model fundamentals |
-| Generative AI | Developing | LLM concepts, prompting, AI-powered application development |
-| Data Analysis | Developing | Data cleaning, exploration, visualization and interpretation |
-| Python for AI/ML | Developing | NumPy, Pandas and ML-oriented Python workflows |
-| Model Deployment | Developing | APIs and application-level integration of ML models |
+| Artificial Intelligence | Learning | Exploring AI concepts and practical applications |
+| Machine Learning | Learning | Studying machine learning algorithms and practical workflows |
+| Data Science | Learning | Developing knowledge of data-driven problem solving |
+| Data Analysis | Learning | Exploring data analysis and visualization |
+| Deep Learning | Fundamentals | Developing an understanding of deep learning concepts |
+| Data Processing | Learning | Learning data preparation and processing techniques |
+| Model Training & Evaluation | Learning | Exploring model training and evaluation workflows |
+| Generative AI | Exploring | Learning about Generative AI and AI-powered applications |
+| Python | Developing | Using Python for programming and AI/ML learning |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><strong>Project 01 — AI-Powered Application</strong></summary>
+<summary><strong>Projects</strong></summary>
 
-### AI-Powered Application
+No specific GitHub projects have been provided yet.
 
-A production-oriented application designed around an AI-assisted workflow, with emphasis on usability, maintainability and reliable backend integration.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python • AI/ML • REST API • Database |
-| **Scale** | Project-dependent |
-| **Performance** | Designed for efficient request/response workflows |
-| **Security** | Input validation • Environment-based secrets • API security practices |
-| **Impact** | Automates or improves a real-world workflow |
-| **Repository** | [View Repository](https://github.com/YOUR_GITHUB_USERNAME) |
-
-### Engineering Focus
-
-- Modular application architecture
-- AI/ML integration
-- API-driven backend
-- Data processing
-- Maintainable project structure
-- Error handling and validation
-- Production-oriented development practices
-
-</details>
-
-<details>
-<summary><strong>Project 02 — Full-Stack Web Platform</strong></summary>
-
-### Full-Stack Web Platform
-
-A full-stack application focused on delivering a clean user experience backed by structured APIs, persistent data and scalable application architecture.
-
-| Category | Details |
-|---|---|
-| **Stack** | React • Node.js • Express • Database |
-| **Scale** | Project-dependent |
-| **Performance** | Optimized client/server communication and data access |
-| **Security** | Authentication • Authorization • Input validation |
-| **Impact** | End-to-end product development experience |
-| **Repository** | [View Repository](https://github.com/YOUR_GITHUB_USERNAME) |
-
-### Engineering Focus
-
-- Responsive frontend architecture
-- RESTful backend services
-- Database integration
-- Authentication and authorization
-- API validation
-- Component-based development
-- Deployment-ready architecture
-
-</details>
-
-<details>
-<summary><strong>Project 03 — Backend / Automation System</strong></summary>
-
-### Backend / Automation System
-
-A backend-focused project designed to automate repetitive workflows and provide reliable programmatic access through structured services.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python • REST API • SQL • Automation |
-| **Scale** | Project-dependent |
-| **Performance** | Designed for efficient processing and predictable execution |
-| **Security** | Environment variables • Validation • Access controls |
-| **Impact** | Reduces manual workflow and improves repeatability |
-| **Repository** | [View Repository](https://github.com/YOUR_GITHUB_USERNAME) |
-
-### Engineering Focus
-
-- Backend architecture
-- Automation
-- API design
-- Database operations
-- Exception handling
-- Logging and maintainability
-- Reusable service components
+Project names, descriptions, technology stacks, performance metrics, security details, impact statements, and repository links will only be added after the actual projects are provided.
 
 </details>
 
@@ -205,23 +124,40 @@ A backend-focused project designed to automate repetitive workflows and provide 
 
 ## Experience
 
-### Software Engineering / Development
+### B.Tech — Artificial Intelligence & Machine Learning
 
-**Independent Projects & Engineering Work**  
-`Present`
+**Shambhunath Institute of Engineering and Technology**  
+`August 2025 – Present`
 
-Focused on developing software projects across application development, backend engineering, AI/ML experimentation and developer tooling.
+Currently pursuing a **B.Tech in Artificial Intelligence & Machine Learning**.
 
-- Design and implement software systems from requirements to deployment
-- Develop maintainable frontend and backend components
-- Build and integrate APIs
-- Work with databases and structured data
-- Experiment with AI/ML technologies
-- Practice Git-based development workflows
-- Improve code quality through refactoring and testing
-- Explore scalable and production-oriented architecture
+- Developing foundations in Artificial Intelligence and Machine Learning
+- Learning Python and other programming concepts
+- Exploring machine learning models and algorithms
+- Participating in technology competitions and innovation challenges
+- Working on AI and Machine Learning models as part of project-based learning
+- Exploring website development and technology-driven solutions
+- Developing practical project-development experience
+- Strengthening teamwork, critical thinking and analytical problem solving
+- Continuously learning emerging technologies
 
-**Skills:** `Software Engineering` `Python` `JavaScript` `AI/ML` `Full Stack` `Backend` `Git` `APIs`
+**Skills:** `Artificial Intelligence` `Machine Learning` `Python` `Data Science` `Data Analysis` `Problem Solving`
+
+### School Education
+
+**ML Convent Group of Schools**  
+`April 2010 – March 2024`
+
+Completed schooling with participation in academic, extracurricular and sports activities.
+
+- Participated in sports talent hunts
+- Participated in extracurricular activities and school events
+- Developed teamwork and collaboration skills
+- Strengthened communication and adaptability
+- Developed problem-solving abilities
+- Focused on academic and personal development
+
+**Skills:** `Teamwork` `Communication` `Leadership` `Adaptability` `Problem Solving`
 
 ---
 
@@ -231,11 +167,12 @@ Focused on developing software projects across application development, backend 
 
 | Recognition | Details |
 |---|---|
-| Software Engineering | Building and continuously improving software projects |
-| AI / ML | Developing practical understanding through projects and experimentation |
-| Open Source | Learning and contributing through GitHub-based development |
-| Problem Solving | Practicing algorithmic and engineering problem solving |
-| Continuous Learning | Expanding technical knowledge across modern development technologies |
+| Technology Competitions | Participated in technology competitions and innovation challenges |
+| AI / ML Development | Developed AI and Machine Learning models through project and learning activities |
+| Web Development | Designed websites and explored web development |
+| Technology Solutions | Worked on technology-driven solutions for practical problems |
+| Extracurricular Activities | Participated in sports talent hunts, extracurricular activities and school events |
+| Continuous Learning | Continuously developing knowledge in AI, ML, Data Science and emerging technologies |
 
 </p>
 
@@ -243,90 +180,49 @@ Focused on developing software projects across application development, backend 
 
 ## Certifications
 
-### AWS
+### University of Helsinki
 
-![AWS](https://img.shields.io/badge/AWS-Certifications-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/University%20of%20Helsinki-Elements%20of%20AI-7C3AED?style=for-the-badge"/>
+</p>
 
-> Add only certifications that you have actually earned.
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Certifications-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-> Add only certifications that you have actually earned.
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certifications-7C3AED?style=for-the-badge)
-
-> Add only certifications that you have actually earned.
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Certifications-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-> Add only certifications that you have actually earned.
+**Elements of AI**  
+Issued: **April 2025**
 
 ---
 
 ## Coding Profiles
 
-<p align="center">
+No coding-profile URLs have been provided yet.
 
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</p>
+- LeetCode — Not provided
+- GeeksforGeeks — Not provided
+- HackerRank — Not provided
+- CodeChef — Not provided
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
-</p>
+GitHub analytics are not connected yet because the actual GitHub username/profile URL has not been provided.
 
 ---
 
 ## GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
-</p>
+GitHub trophies are not connected yet because the actual GitHub username has not been provided.
 
 ---
 
 ## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&hide_border=true" width="100%"/>
-</p>
+GitHub contribution activity is not connected yet because the actual GitHub username has not been provided.
 
 ---
 
 ## Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
-</p>
+The contribution snake is not connected yet because the actual GitHub username has not been provided.
 
 ---
 
@@ -334,27 +230,32 @@ Focused on developing software projects across application development, backend 
 
 ```yaml
 Learning:
-  - Advanced Software Engineering
   - Artificial Intelligence
   - Machine Learning
-  - System Design
-  - Cloud & DevOps
+  - Data Science
+  - Data Analysis
+  - Deep Learning Fundamentals
+  - Generative AI
+  - Web Development
+  - Python Programming
 
 Building:
-  - Full-Stack Applications
-  - AI-Powered Products
-  - Backend Services
-  - Developer Tools
+  - AI and Machine Learning Projects
+  - Technology-driven Solutions
+  - Practical Development Projects
 
 Exploring:
+  - Machine Learning Algorithms
+  - AI-powered Applications
+  - Data Visualization
   - Generative AI
-  - LLM Applications
-  - Scalable Architectures
-  - Open Source
+  - Emerging Technologies
+  - Web Development
 
 Open To:
-  - Software Engineering
-  - AI/ML Engineering
-  - Full-Stack Development
-  - Backend Engineering
+  - AI & Machine Learning Opportunities
+  - Data Science Opportunities
+  - Web Development Opportunities
+  - Technical Projects
+  - Innovation Challenges
   - Open Source Collaboration
