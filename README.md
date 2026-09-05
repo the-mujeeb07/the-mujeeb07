@@ -68,25 +68,25 @@ I'm also interested in web development and technology-driven solutions, while de
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,sql,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,sql,bash&theme=dark" />
 </p>
 
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux&theme=dark" />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,postgres,mysql,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,redis&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,nginx,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,aws,vscode&theme=dark" />
 </p>
 
 ---
