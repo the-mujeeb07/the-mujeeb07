@@ -68,7 +68,7 @@ I'm also interested in web development and technology-driven solutions, while de
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,sql,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,sql,theme=dark" />
 </p>
 
 ### Frontend
