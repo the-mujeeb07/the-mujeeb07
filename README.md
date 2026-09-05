@@ -204,7 +204,11 @@ No coding-profile URLs have been provided yet.
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=the-mujeeb07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
@@ -212,7 +216,15 @@ No coding-profile URLs have been provided yet.
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-mujeeb07/the-mujeeb07/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-mujeeb07/the-mujeeb07/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/the-mujeeb07/the-mujeeb07/output/github-snake.svg">
+  </picture>
+</p>
 
 ---
 
